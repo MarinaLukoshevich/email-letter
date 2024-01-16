@@ -1,5 +1,5 @@
 # E-mail письмо
-
+![Letter Demo](PixPer/letter-demo.jpg)
 
 ## О проекте
 E-mail письмо от художественной галереи «Blanchard»
@@ -22,7 +22,6 @@ E-mail письмо от художественной галереи «Blanchard
 
 ## Инструментарий
 1. HTML
-2. СSS
 1. putsMail.com
 1. Validator
 1. GitLab
